@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joaopguima
-- 👀 I’m interested em me tornar um programador.
+- 👀 I’m interested become a programmer.
 - 🌱 I’m currently learning  java.
-- 💞️ I’m looking to collaborate on estudos, atividades e desenvolvimentos.
-- 📫 How to reach me  via github.
+- 💞️ I’m looking to collaborate on studies, ativites and developments.
+- 📫 How to reach me via github.
 
 <!---
 joaopguima/joaopguima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.eae
