@@ -1,6 +1,6 @@
 ## João Pedro Guimarães da Silva de Jesus
 
-Prazer, me chamo João Pedro mas pode chamar de JP, tenho 23 anos e sou natural de São Paulo.
+Prazer, me chamo João Pedro mas pode chamar de JP, tenho 24 anos e sou natural de São Paulo.
 
 Recentemente descobri minha paixão por desenvolvimento, e decidi focar meus pensamentos nesta área para conseguir uma oportunidade de emprego e ter uma carreira sólida e divertida, afinal programação nos diverte muito.
 
