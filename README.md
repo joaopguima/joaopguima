@@ -10,7 +10,7 @@ Sou uma pessoa que gosta muito de games, futebol, praia e academia, essas são a
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:joaopedro.jusus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joao-pedro-guimar%C3%A3es-77697b150/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199165881237/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/sep_joaop/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/joaopguima__/)
 
 
 ### Habilidades
