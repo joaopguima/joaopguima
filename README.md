@@ -21,7 +21,7 @@ Sou uma pessoa que gosta muito de games, futebol, praia e academia, essas são a
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring)
-![MySQÇ](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySql)
 
 
 ### GitHub Stats
